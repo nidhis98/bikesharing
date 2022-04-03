@@ -1,6 +1,6 @@
 # bikesharing
 
-[link to dashboard]( NYC Citibike Analysis | Tableau Public)
+[https://public.tableau.com/app/profile/nidhi.singh3947/viz/NYCCitibikeAnalysis_16489348715970/NYCCitibikeAnalysis?publish=yes]( NYC Citibike Analysis | Tableau Public)
 
 # Overview of the analysis
 
@@ -20,7 +20,7 @@ Like the previous visualization, this graph shows the peak length of time citibi
 
 Ride Start times by Weekday
 
-This heat map displays when the citibikes are being used throughout the days of the week. The concentration of bikes being used falls within Monday – Friday, before 9:00AM and after 5:00PM. We can predict that the users during these times, are using citibikes are their mode of transportation to and from work or school. 
+This heat map displays when the citibikes are being used throughout the days of the week. The concentration of bikes being used falls within Monday â€“ Friday, before 9:00AM and after 5:00PM. We can predict that the users during these times, are using citibikes are their mode of transportation to and from work or school. 
 
 
 Ride Start times by Gender
